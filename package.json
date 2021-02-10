@@ -1,0 +1,19 @@
+{
+  "name": "sexas-login-phase",
+  "version": "1.0.0",
+  "description": "This is a simple login based on javascript and firebase. It implments firebase Auth.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Firebase",
+    "Login",
+    "Authentication"
+  ],
+  "author": "boyzzs Tiwari",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^8.2.6"
+  }
+}
